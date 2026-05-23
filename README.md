@@ -1,3 +1,6 @@
+# Did you know tjat only 2% of websites are fully accessible?
+Well in this final challenge I utilised the most critical skills learned throughout the Scrimba's accessibility section in order to improve the accessibility of the form.
+
 # Getting Started
 Install the dependencies and run the project
 ```
