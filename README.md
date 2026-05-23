@@ -1,4 +1,4 @@
-# Did you know tjat only 2% of websites are fully accessible?
+# Did you know that only 2% of websites are fully accessible?
 In this final challenge I put the most critical skills I learned throughout the Scrimba's accessibility section to the test in order to improve the accessibility of the form.
 
 # Getting Started
